@@ -1,0 +1,1 @@
+"Here I am adding some texts to this repo for the Odin Project"
